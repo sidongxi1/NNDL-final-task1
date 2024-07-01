@@ -87,6 +87,8 @@ python ImageNet.py
 python Supervised.py
 ```
 
+模型权重保存于链接：https://pan.baidu.com/s/1_eMIXs54r4AVW-2H3cesMA   提取码：wfik 
+
 ------
 
 ### Visualization
